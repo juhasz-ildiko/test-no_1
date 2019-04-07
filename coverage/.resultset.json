@@ -1,0 +1,53 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Volumes/DATA/www/test-no_1/app/controllers/home_controller.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Volumes/DATA/www/test-no_1/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Volumes/DATA/www/test-no_1/app/controllers/concerns/distance_calculation.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1554677200
+  }
+}
